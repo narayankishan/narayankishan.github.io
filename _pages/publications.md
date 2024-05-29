@@ -11,7 +11,7 @@ Below is a collection of publicly available data used by economists and other pr
 
 ## Data Sources / Fields
 
-- SHRUG - [Development Data Lab (devdatalab.org)](https://www.devdatalab.org/shrug_download/)
+- SHRUG | [Development Data Lab (devdatalab.org)](https://www.devdatalab.org/shrug_download/)
 - India High Courts Data - [Daksh - Judicial data analysis | High Court Data Portal (dakshindia.org)](https://database.dakshindia.org/)
 - Broadband Internet Data for Indian Villages (BharatNet) - [Johannes Matzat - Data (google.com)](https://sites.google.com/view/johannes-matzat/data)
 - National Family and Health Survey (NFHS)
