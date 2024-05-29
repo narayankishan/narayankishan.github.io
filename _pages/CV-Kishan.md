@@ -9,7 +9,7 @@ author_profile: true
 
 - **2013-Present** - PhD in Public Policy, Northeastern University
 - **2019-2021** - Master of Arts in Applied Economics, Jawaharlal Nehru University
-- **2016-2019** - Bachelor of Economics (Honours), Banaras Hindu University
+- **2016-2019** - Bachelor of Arts in Economics (Honours), Banaras Hindu University
 
 ## Research-related Experience
 
