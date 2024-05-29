@@ -13,27 +13,17 @@ Below is a collection of publicly available data used by economists and other pr
 
 - SHRUG | [Development Data Lab (devdatalab.org)](https://www.devdatalab.org/shrug_download/)
 - India High Courts Data - [Daksh - Judicial data analysis | High Court Data Portal (dakshindia.org)](https://database.dakshindia.org/)
-- Broadband Internet Data for Indian Villages (BharatNet) - [Johannes Matzat - Data (google.com)](https://sites.google.com/view/johannes-matzat/data)
-- National Family and Health Survey (NFHS)
-  - Both NSS and NHFS have landholding, occupational structure, education
-  - [National Family Health Survey (rchiips.org)](http://rchiips.org/NFHS/index.shtml)
-- The Annual Survey of Industries
-- Decennial Indian national population census data
-- National Sample Survey (NSS) of households
-  - Monthly per capita expenditure
-- Indian judiciary - [njdg.ecourts.gov.in](https://njdg.ecourts.gov.in/) and [ecourts.gov.in](http://www.ecourts.gov.in/)
-- [Global Instances of Coups – Arrested Dictatorship](https://arresteddictatorship.com/coups/)
-- [Mutiny in Africa – Arrested Dictatorship](https://arresteddictatorship.com/mutiny/) - mutiny as an “act of collective insubordination, in which troops revolt against lawfully constituted authority for primary goals other than political power.”
-- [REIGN – Arrested Dictatorship](https://arresteddictatorship.com/reign/) - leader-month data, capturing national electoral processes and leadership change
-- [Varshney-Wilkinson Dataset on Hindu-Muslim Violence in India, 1950-1995, Version 2 (umich.edu)](https://www.icpsr.umich.edu/web/ICPSR/studies/4342/versions/V1)
-- [Download CCP Data - Comparative Constitutions Project](https://comparativeconstitutionsproject.org/download-data/) - record the characteristics of national constitutions written since 1789 and the constitutional events (amendment, suspension, new constitution etc.)
-- [INSCR Data Page (systemicpeace.org)](https://www.systemicpeace.org/inscrdata.html) - State and conflict datasets
-  - Armed Conflict and Intervention (ACI) Datasets
-  - Polity5: Regime Authority Characteristics and Transitions Datasets
-  - State Fragility Index and Matrix
-  - Conflict in India Datasets
-  - [Varshney-Wilkinson Dataset on Hindu-Muslim Violence in India, 1950-1995
-
+- Broadband Internet Data for Indian Villages (BharatNet) | [Johannes Matzat - Data (google.com)](https://sites.google.com/view/johannes-matzat/data)
+- National Family and Health Survey (NFHS) | Both NSS and NHFS have landholding, occupational structure, education- [National Family Health Survey (rchiips.org)](http://rchiips.org/NFHS/index.shtml)
+- The Annual Survey of Industries | Decennial Indian national population census data -National Sample Survey (NSS) of households- Monthly per capita expenditure
+- Indian judiciary | [njdg.ecourts.gov.in](https://njdg.ecourts.gov.in/) and [ecourts.gov.in](http://www.ecourts.gov.in/)
+- [Global Instances of Coups | Arrested Dictatorship](https://arresteddictatorship.com/coups/)
+- [Mutiny in Africa | Arrested Dictatorship](https://arresteddictatorship.com/mutiny/) - mutiny as an “act of collective insubordination, in which troops revolt against lawfully constituted authority for primary goals other than political power.”
+- [REIGN – Arrested Dictatorship](https://arresteddictatorship.com/reign/) |leader-month data, capturing national electoral processes and leadership change
+- [Varshney-Wilkinson Dataset | on Hindu-Muslim Violence in India, 1950-1995, Version 2 (umich.edu)](https://www.icpsr.umich.edu/web/ICPSR/studies/4342/versions/V1)
+- [Download CCP Data - Comparative Constitutions Project](https://comparativeconstitutionsproject.org/download-data/) | record the characteristics of national constitutions written since 1789 and the constitutional events (amendment, suspension, new constitution etc.)
+- [INSCR Data Page (systemicpeace.org)](https://www.systemicpeace.org/inscrdata.html)| State and conflict datasets
+  - Armed Conflict and Intervention (ACI) Datasets | Polity5: Regime Authority Characteristics and Transitions Datasets- State Fragility Index and Matrix - Conflict in India Datasets
 - [Worldwide Bureaucracy Indicators | Data Catalog (worldbank.org)](https://datacatalog.worldbank.org/search/dataset/0038132) - cross-national dataset on public sector employment and wages
 - [Data: Querying, Analyzing and Downloading: The GDELT Project](https://www.gdeltproject.org/data.html#rawdatafiles) - monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images, and events
 - [Browse (indiankanoon.org)](https://indiankanoon.org/browse/) - text of all cases from higher judiciary in India
