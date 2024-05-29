@@ -12,6 +12,6 @@ Furthermore, I taught Statistics and Microeconomics to senior-secondary students
 
 While many scholars across various disciplines have studied marginalized communities, I aim to infuse my research with my personal experiences and insights to provide a fresh perspective. I am particularly passionate about highlighting the voices and concerns of underrepresented groups in the field of economics and development, ensuring they are adequately addressed in policy considerations. <br>
 
-Research Interest
+Research Interests
 ------
 I enjoy integrating questions from various disciplines, such as psychology, sociology, and political science, with economic principles to gain a deeper understanding of the multifaceted nature of the issues at hand.  As a development and labor economist, I focus on the intersections of education, caste, class, and gender, working towards developing effective solutions through experiments designed to enhance labor market efficiency.
