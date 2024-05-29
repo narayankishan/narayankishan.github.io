@@ -53,7 +53,7 @@ Below is a collection of publicly available data used by economists and other pr
 - DISE 2005-2018| [Dropbox](https://www.dropbox.com/scl/fo/o3hes1ixfv3zhgrwung5x/h?rlkey=mnlzddqgf4qqvs22whst4sk6u&dl=0)
 - Indian Microdata | [Dropbox](https://www.dropbox.com/scl/fo/o3hes1ixfv3zhgrwung5x/h?rlkey=mnlzddqgf4qqvs22whst4sk6u&dl=0)
 - District Level Household and Facility Survey | [DLHS (rchiips.org)](http://rchiips.org/index.html)
-- [Historical Research - India - Fast Answers (hbs.edu)](https://asklib.library.hbs.edu/faq/154144)
+- India Historical Research | [Historical Research - India - Fast Answers (hbs.edu)](https://asklib.library.hbs.edu/faq/154144)
 - Tamil Nadu Socioeconomic Mobility Survey (TNSMS) | [Yale Economic Growth Center](https://egc.yale.edu/data/egc-cmf-survey-tamil-nadu-india)
 - Tamil Nadu Social Network Mapping Survey | [Yale Economic Growth Center](https://egc.yale.edu/data/tamil-nadu-social-network-mapping-survey)
 - Telangana Open Data | [Open Data Telangana](https://data.telangana.gov.in/)
