@@ -10,13 +10,13 @@ redirect_from:
 
 ## Education
 
-- **2013-Present** - PhD in Public Policy, Northeastern University
+- **2023-Present** - PhD in Public Policy, Northeastern University
 - **2019-2021** - Master of Arts in Applied Economics, Jawaharlal Nehru University
 - **2016-2019** - Bachelor of Arts in Economics (Honours), Banaras Hindu University
 
 ## Research-related Experience
 
-- **Feb 2023-Aug 2023** - Research Analyst, Development Data Lab
+- **Feb 2023-Aug 2023** - Research Analyst,  [Development Data Lab](https://www.devdatalab.org/shrug_download/)
 - **Feb 2022-Feb 2023** - Research Fellow, Ministry of Finance, National Institute of Public Finance and Policy with Prof. H.K. Amarnath
 - **Sep 2021-Jan 2022** - Research Assistant, Banaras Hindu University with Prof. Anup Kumar Mishra
 
