@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education
 
-- **2013-Present** - PhD in Public Policy, Northeastern University
+- **2023-Present** - PhD in Public Policy, Northeastern University
 - **2019-2021** - Master of Arts in Applied Economics, Jawaharlal Nehru University
 - **2016-2019** - Bachelor of Arts in Economics (Honours), Banaras Hindu University
 
