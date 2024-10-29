@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research, Writings, and Other Works"
-permalink: /research-writings-others/
+permalink: /research-writings/
 author_profile: true
 ---
 
