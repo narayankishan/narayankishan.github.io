@@ -7,7 +7,7 @@ author_profile: true
 
 ### Work in Progress
 
-**The Causal Impact of Continuing Legal Education (CLE) Requirements on Legal Outcomes** with Josh Rosen  
+**The Causal Impact of Continuing Legal Education (CLE) Requirements on Legal Outcomes** with ([Josh Rosen](https://joshrrosen.github.io/personal-website/))  
 This research investigates whether mandatory Continuing Legal Education (CLE) requirements for practicing lawyers actually improve legal service quality and professional conduct. Leveraging the variation in CLE policies across U.S. states, the study aims to establish causal evidence on whether these educational mandates reduce malpractice rates or enhance legal service quality. The research employs multiple empirical strategies, including synthetic control methods and instrumental variables approaches, while utilizing comprehensive data from national lawyer databases and malpractice claims records. The study addresses key confounding factors such as differences in legal practice types, lawyer quality, and state-specific claiming behaviors. By examining this important question, the research contributes to broader discussions about professional licensing, human capital formation, and the effectiveness of continuing education requirements in professional services markets.
 
 **Displacement or Expansion? The General Equilibrium Effects of EWS Quotas in Indian Higher Education**  
@@ -25,7 +25,7 @@ This comprehensive study analyzes explicit subsidies across seven Indian states 
 
 ---
 
-### Other Writings
+### Media Writings
 
 **[India's Growing Social Base of Educational Inequality](https://www.newsclick.in/survival-privileged-why-budget-24-matters-marginalised)**  
 
