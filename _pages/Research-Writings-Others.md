@@ -1,41 +1,5 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-
-## Education
-
-- **2023-Present** - PhD in Public Policy, Northeastern University
-- **2019-2021** - Master of Arts in Applied Economics, Jawaharlal Nehru University
-- **2016-2019** - Bachelor of Arts in Economics (Honours), Banaras Hindu University
-
-## Research-related Experience
-
-- **Feb 2023-Aug 2023** - Research Analyst,  [Development Data Lab](https://www.devdatalab.org/shrug_download/)
-- **Feb 2022-Feb 2023** - Research Fellow, Ministry of Finance, National Institute of Public Finance and Policy with Prof. H.K. Amarnath
-- **Sep 2021-Jan 2022** - Research Assistant, Banaras Hindu University with Prof. Anup Kumar Mishra
-
-## Other Professional Experience
-
-- **2019** - Intern, NITI Aayog (Erstwhile Planning Commission of India)
-- **2018** - Intern, Ministry of Tourism, Govt of India
-- **2017** - Intern, Campaign for Anti-Corruption and Human Rights, Govt of Federal Democratic Republic of Nepal
-
-## Conferences and Workshops
-
-- **2022** - Institut Francais De Pondichery (Winter School on Rethinking Economic Inequality)
-- **2022** - 17th Annual Conference on Economic Growth and Development, ISI, Delhi
-- **2020** - Annual Labour Economics Conference, Jawaharlal Nehru University
-- **2019** - Indian Society of Labour Economics
-
-
----
-layout: archive
 title: "Research, Writings, and Other Works"
 permalink: /research-writings-others/
 author_profile: true
@@ -64,9 +28,7 @@ This comprehensive study analyzes explicit subsidies across seven Indian states 
 ### Other Writings
 
 **[India's Growing Social Base of Educational Inequality](https://www.newsclick.in/survival-privileged-why-budget-24-matters-marginalised)**  
-An analysis of how budgetary decisions impact educational inequality in India, underscoring the growing divide between privileged and marginalized communities.
 
 **[The Threat to Equity in Higher Education: Examining the Impacts of NEP 2020 and HEFA on Marginalized Students in India](https://www.newsclick.in/HEFA-NEP-Spell-Doom-Higher-Ed-Especially-Marginalised-Students)**  
-This article examines the implications of the National Education Policy (NEP) 2020 and the Higher Education Financing Agency (HEFA) on access to higher education for marginalized students in India, cautioning against policies that could worsen educational inequities.
 
 **[Bihar’s Bridge Woes Shatter Dreams of its People](https://www.newsclick.in/bihars-bridge-woes-shatter-dreams-its-people)**  
