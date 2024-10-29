@@ -7,11 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Public Policy at Northeastern University. My research delves into the intricate relationship between Development Economics and Public Policy. Before joining Northeastern, I earned my Master’s in Applied Economics from Jawaharlal Nehru University. My professional journey includes roles at the National Institute of Public Finance and Policy, Ministry of Finance, Government of India. I contributed to developing an open-source database spotlighting the representation of Indian Parliamentarians at Development Data Lab. 
-Furthermore, I taught Statistics and Microeconomics to senior-secondary students at the Delhi Government School, all in New Delhi. <br>
+I am a PhD student in Public Policy at Northeastern University studying Development Economics and Public Policy. Prior to Northeastern, I earned my Master's in Applied Economics from Jawaharlal Nehru University and Bachelor's in Economics from Banaras Hindu University. My professional experience includes working as a Research Fellow at the National Institute of Public Finance and Policy, where I collaborated with the NITI Aayog and Ministry of Finance, Government of India. At Development Data Lab, I contributed to developing an open-source database tracking Indian Parliamentary representation.  I also taught Statistics and Microeconomics to high school students at Delhi Government Schools. <br>
 
 While many scholars across various disciplines have studied marginalized communities, I aim to infuse my research with my personal experiences and insights to provide a fresh perspective. I am particularly passionate about highlighting the voices and concerns of underrepresented groups in the field of economics and development, ensuring they are adequately addressed in policy considerations. <br>
 
-Research Interests
-------
-I enjoy integrating questions from various disciplines, such as psychology, sociology, and political science, with economic principles to gain a deeper understanding of the multifaceted nature of the issues at hand.  As a development and labor economist, I focus on the intersections of education, caste, class, and gender, working towards developing effective solutions through experiments designed to enhance labor market efficiency.
+My interests include social stratification, labor outcomes, and applying experimental approaches to understand how education, race, caste, class, and gender interact in economic development.
