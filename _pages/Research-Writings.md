@@ -17,7 +17,7 @@ This research exploits India's 2019 introduction of a 10% quota for Economically
 
 ### Reports
 
-**Rationalisation of Explicit Subsidies at State Level.** (2024). National Institute of Public Finance and Policy, New Delhi. NITI Aayog, Government of India Study, with Amar Nath, H. K., Nayudu, S. H., Gurdatta, M., Kishan, & Raj, A.  
+**Rationalisation of Explicit Subsidies at State Level.** (2024). National Institute of Public Finance and Policy, New Delhi. NITI Aayog, Government of India Study, with Amar Nath, H. K., Nayudu, S. H., Gurdatta, M. & Raj, A.  
 *National Institute of Public Finance and Policy* ([Report Link](https://nipfp.org.in/publications/reports/1440))  
 *Media Coverage: Business Standard* ([Containing Subsidies: Why States Must Reassess and Rationalise Expenditure](https://www.business-standard.com/opinion/editorial/containing-subsidies-why-states-must-reassess-and-rationalise-expenditure-124082201416_1.html))  
 
