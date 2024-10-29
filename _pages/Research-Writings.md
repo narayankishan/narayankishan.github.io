@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research, Writings"
+title: "ResearchWritings"
 permalink: /research-writings/
 author_profile: true
 ---
