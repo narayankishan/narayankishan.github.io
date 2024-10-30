@@ -17,7 +17,7 @@ Below is a collection of publicly available data used by economists and other pr
 - **India High Courts Data** | [Daksh - Judicial data analysis](https://database.dakshindia.org/)
 - **Broadband Internet Data for Indian Villages (BharatNet)** | [Johannes Matzat](https://sites.google.com/view/johannes-matzat/data)
 - **National Family and Health Survey (NFHS)** | [National Family Health Survey](http://rchiips.org/NFHS/index.shtml)
-- **Annual Survey of Industries & National Sample Survey (NSS)** | [MOSPI] (https://mospi.gov.in/51-annual-survey-industries) 
+- **Annual Survey of Industries & National Sample Survey (NSS)** | [MOSPI](https://mospi.gov.in/51-annual-survey-industries)
 - **Indian Judiciary Data** | [NJDG](https://njdg.ecourts.gov.in/) and [E-Courts](http://www.ecourts.gov.in/)
 - **Agriculture Marketing** | [AGMARKNET](http://agmarknet.gov.in/) - Market data on food arrivals and prices.
 - **India Microdata** | [Indiamicrodata](https://docs.google.com/spreadsheets/d/1VWzPJAtMl1_hMHUER4QA6HcV4mJaFrcjOtvxeCNo0nE/edit#gid=0)
