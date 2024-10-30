@@ -14,7 +14,7 @@ Below is a collection of publicly available data used by economists and other pr
 ### India-Specific Data
 
 - **SHRUG** | [Development Data Lab](https://www.devdatalab.org/shrug_download/)
-- **India High Courts Data** - [Daksh - Judicial data analysis](https://database.dakshindia.org/)
+- **India High Courts Data** | [Daksh - Judicial data analysis](https://database.dakshindia.org/)
 - **Broadband Internet Data for Indian Villages (BharatNet)** | [Johannes Matzat](https://sites.google.com/view/johannes-matzat/data)
 - **National Family and Health Survey (NFHS)** | [National Family Health Survey](http://rchiips.org/NFHS/index.shtml)
 - **Annual Survey of Industries & National Sample Survey (NSS)** | Contains data on household structure, expenditure, etc.
