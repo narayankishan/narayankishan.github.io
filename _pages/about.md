@@ -12,3 +12,6 @@ I am a PhD student in Public Policy at Northeastern University studying Developm
 While many scholars across various disciplines have studied marginalized communities, I aim to infuse my research with my personal experiences and insights to provide a fresh perspective. I am particularly passionate about highlighting the voices and concerns of underrepresented groups in the field of economics and development, ensuring they are adequately addressed in policy considerations. <br>
 
 My interests include social stratification, labor outcomes, and applying experimental approaches to understand how education, race, caste, class, and gender interact in economic development.
+
+I am part of <a href="https://bahujanecon.org/" target="_blank">Bahujan Economists</a>, a platform dedicated to supporting researchers, students, aspirants, and professors from historically marginalized caste, tribal, and religious communities in the field of Economics.
+Follow our work at: <a href="https://x.com/BahujanEcon" target="_blank">https://x.com/BahujanEcon</a>.
