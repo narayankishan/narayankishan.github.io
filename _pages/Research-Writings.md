@@ -32,7 +32,5 @@ This comprehensive study analyzes explicit subsidies across seven Indian states 
 
 **[Developmental spending is far better than developmental subsidy](https://www.ideasforindia.in/topics/macroeconomics/the-growing-burden-of-state-subsidies.html)**  
 **[India's Growing Social Base of Educational Inequality](https://www.newsclick.in/survival-privileged-why-budget-24-matters-marginalised)**  
-
 **[The Threat to Equity in Higher Education: Examining the Impacts of NEP 2020 and HEFA on Marginalized Students in India](https://www.newsclick.in/HEFA-NEP-Spell-Doom-Higher-Ed-Especially-Marginalised-Students)**  
-
 **[Bihar’s Bridge Woes Shatter Dreams of its People](https://www.newsclick.in/bihars-bridge-woes-shatter-dreams-its-people)**  
