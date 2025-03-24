@@ -41,9 +41,12 @@
 @import "print";
 
 img.author__avatar {
-  border-radius: 0 !important; /* Make it square */
-  width: 200px;
-  height: 200px;
+  border-radius: 0 !important;  /* Square shape */
+  width: 180px;                 /* Match Aarushi’s width */
+  height: 180px;                /* Keep it square */
+  object-fit: cover;            /* Ensures image doesn’t stretch */
+  border: 1px solid #ccc;
 }
+
 
 
