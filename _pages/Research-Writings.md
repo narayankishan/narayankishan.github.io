@@ -27,10 +27,6 @@ This comprehensive study analyzes explicit subsidies across seven Indian states 
 **My Summary for Ideas for India** [The growing burden of state subsidies](https://www.ideasforindia.in/topics/macroeconomics/the-growing-burden-of-state-subsidies.html)
 
 ---
-
-### Media Writings
----
-
 ### Media Writings
 
 - **[Developmental spending is far better than developmental subsidy](https://www.ideasforindia.in/topics/macroeconomics/the-growing-burden-of-state-subsidies.html)**  
