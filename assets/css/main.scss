@@ -40,11 +40,9 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.profile-picture {
-  border-radius: 0; /* Removes the circular shape */
-  width: auto; /* Adjusts the width as necessary */
-  height: auto; /* Adjusts the height as necessary */
-  /* Optional: Define specific width and height */
-  /* width: 200px; */
-  /* height: 200px; */
+.author__avatar img {
+  border-radius: 0 !important; /* Make it square */
+  width: auto;
+  height: auto;
 }
+
