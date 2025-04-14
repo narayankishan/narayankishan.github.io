@@ -29,6 +29,7 @@ This comprehensive study analyzes explicit subsidies across seven Indian states 
 ---
 ### Media Writings
 
+- [राज्यों की सब्सिडी का बढ़ता बोझ](https://www.ideasforindia.in/topics/macroeconomics/information-is-power-ict-and-agricultural-productivity-hindi.html)  *Ideas for India* - April 2025
 - [Developmental spending is far better than developmental subsidy](https://www.ideasforindia.in/topics/macroeconomics/the-growing-burden-of-state-subsidies.html)  *Ideas for India* - March 2025
 - [Bihar’s Bridge Woes Shatter Dreams of its People](https://www.newsclick.in/bihars-bridge-woes-shatter-dreams-its-people) *Newsclick* - June 2023
 - [India's Growing Social Base of Educational Inequality](https://www.newsclick.in/survival-privileged-why-budget-24-matters-marginalised)  *Newsclick* - January 2023
