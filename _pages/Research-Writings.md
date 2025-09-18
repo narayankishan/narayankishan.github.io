@@ -18,7 +18,7 @@ The paper exploits India's 2019 introduction of a 10% quota for Economically Wea
 ### Reports
 
 **Rationalisation of Explicit Subsidies at State Level.** (2024). National Institute of Public Finance and Policy, New Delhi. NITI Aayog, Government of India Study, with Amar Nath, H. K., Nayudu, S. H., Gurdatta, M. & Raj, A.  
-*National Institute of Public Finance and Policy* ([Report Link](https://nipfp.org.in/publications/reports/1440))  
+*National Institute of Public Finance and Policy* ([Report Link](https://www.nipfp.org.in/publication-index-page/report-index-page/rationalisation-of-explicit-subsidies-at-state-level/))  
 *Media Coverage: Business Standard* ([Containing Subsidies: Why States Must Reassess and Rationalise Expenditure](https://www.business-standard.com/opinion/editorial/containing-subsidies-why-states-must-reassess-and-rationalise-expenditure-124082201416_1.html))  
                 *The PrintIndia* ([State Subsidy burden India's Fiscal Health](https://theprint.in/opinion/state-subsidy-burden-india-fiscal-health/2551909/))
 *Idea for India Policy Roundup* ([Policy Roundup: State budgets, time use survey, natural calamities](https://ideasforindia.in/topics/miscellany/policy-roundup-state-budgets-time-use-survey-natural-calamities.html)
