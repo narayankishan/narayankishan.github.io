@@ -8,6 +8,7 @@ author_profile: true
 ### Work in Progress
 
 **The Causal Effect of Social Media Access on Electoral Outcomes: Evidence from Brazil's Twitter Ban** with ([Sebastián Ramirez](https://cssh.northeastern.edu/student/sebastian-ramirez/))
+
 Exploiting Brazil's 2024 Twitter ban as a quasi-experimental shock to identify the causal impact of social media on voting behavior. Employing difference-in-differences methodology comparing border municipalities (with potential cross-border network access) to non-border municipalities. Currently constructing a municipality-level internet penetration index using PCA on data from IBGE's PNAD Contínua and Cetic.br surveys, addressing district-to-municipality harmonization challenges through population-weighted aggregation. Incorporating spatial RD and heterogeneity analysis by baseline internet penetration and bordering country.
 
 **Displacement or Expansion? The General Equilibrium Effects of EWS Quotas in Indian Higher Education**  
