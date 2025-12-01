@@ -15,7 +15,4 @@ My interests include social stratification, labor outcomes, and applying experim
 
 I am part of <a href="https://bahujanecon.org/" target="_blank">Bahujan Economists</a>, a platform dedicated to supporting researchers, students, aspirants, and professors from historically marginalized caste, tribal, and religious communities in the field of Economics.  <br>
 You can follow our work at: <a href="https://x.com/BahujanEcon" target="_blank">https://x.com/BahujanEcon</a>.
-
-I am a PhD Student Visitor, <a href="https://inequality.hks.harvard.edu/stone-phd-student-visitors/" target="_blank">Stone Program in Wealth Distribution, Inequality & Social Policy (HKS)</a>, Harvard University for Fall 2025
-
 PhD Student Affiliate: <a href="https://cssh.northeastern.edu/gap/" target="_blank">Global Action for Policy (GAP) Initiative</a>, Northeastern University
