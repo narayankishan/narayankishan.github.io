@@ -14,5 +14,6 @@ While many scholars across various disciplines have studied marginalized communi
 My interests include social stratification, labor outcomes, and applying experimental approaches to understand how education, race, caste, class, and gender interact in economic development.
 
 I am part of <a href="https://bahujanecon.org/" target="_blank">Bahujan Economists</a>, a platform dedicated to supporting researchers, students, aspirants, and professors from historically marginalized caste, tribal, and religious communities in the field of Economics.  <br>
-You can follow our work at: <a href="https://x.com/BahujanEcon" target="_blank">https://x.com/BahujanEcon</a>.
-PhD Student Affiliate: <a href="https://cssh.northeastern.edu/gap/" target="_blank">Global Action for Policy (GAP) Initiative</a>, Northeastern University
+You can follow our work at: <a href="https://x.com/BahujanEcon" target="_blank">https://x.com/BahujanEcon</a>.  <br>
+
+PhD Student Affiliate: <a href="https://cssh.northeastern.edu/gap/" target="_blank">Global Action for Policy (GAP) Initiative</a>, Northeastern University <br>
