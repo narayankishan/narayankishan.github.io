@@ -17,3 +17,5 @@ I am part of <a href="https://bahujanecon.org/" target="_blank">Bahujan Economis
 You can follow our work at: <a href="https://x.com/BahujanEcon" target="_blank">https://x.com/BahujanEcon</a>.  <br>
 
 PhD Student Affiliate: <a href="https://cssh.northeastern.edu/gap/" target="_blank">Global Action for Policy (GAP) Initiative</a>, Northeastern University <br>
+Fellow: <a href="https://glabor.org/user/narayan.kishan/" target="_blank">Global Labor Organization</a>, <br>
+
