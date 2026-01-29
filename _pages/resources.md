@@ -53,4 +53,15 @@ Below is a collection of publicly available data used by economists and other pr
 - **NGOs in India** | [NGO Darpan](https://ngodarpan.gov.in/index.php/home/statewise)
 - **Air Quality Data of India (2010-2023)** | [Kaggle](https://www.kaggle.com/datasets/abhisheksjha/time-series-air-quality-data-of-india-2010-2023/data)
 
+
+## Lecture Notes / Learning Resources
+
+### Advanced Econometrics (PhD Level)
+
+- **Advanced Econometrics I & II — Revision Notes**  
+  Personal notes covering core topics in modern econometrics, including asymptotic theory, M-estimation, GMM, panel data methods, and identification.
+  Might be usefulf for applied reasearch as a quick refering guide.
+  [Download PDF](https://raw.githubusercontent.com/narayankishan/PhD_econometrics_revision_notes/main/narayan_metrics_notes.pdf)  
+  [GitHub Repository](https://github.com/narayankishan/PhD_econometrics_revision_notes)
+
 ---
