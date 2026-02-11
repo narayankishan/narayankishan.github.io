@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: ""
 pagetitle: Resources - Kishan Narayan
 ---
 
@@ -13,7 +13,7 @@ Below is a collection of publicly available data used by economists and other pr
 
 ---
 
-### India-Specific Data
+#### India-Specific Data
 
 - **SHRUG** | [Development Data Lab](https://www.devdatalab.org/shrug_download/)
 - **India High Courts Data** | [Daksh](https://database.dakshindia.org/)
@@ -28,7 +28,7 @@ Below is a collection of publicly available data used by economists and other pr
 
 ---
 
-### Judicial, Political, and Social Data
+#### Judicial, Political, and Social Data
 
 - **Global Instances of Coups** | [Arrested Dictatorship](https://arresteddictatorship.com/coups/)
 - **Mutiny Data in Africa** | [Arrested Dictatorship](https://arresteddictatorship.com/mutiny/)
@@ -40,7 +40,7 @@ Below is a collection of publicly available data used by economists and other pr
 
 ---
 
-### Public Sector, Economic, and Environmental Data
+#### Public Sector, Economic, and Environmental Data
 
 - **Worldwide Bureaucracy Indicators** | [World Bank](https://datacatalog.worldbank.org/search/dataset/0038132)
 - **GDELT Project** | [GDELT Data](https://www.gdeltproject.org/data.html#rawdatafiles)
@@ -52,7 +52,7 @@ Below is a collection of publicly available data used by economists and other pr
 
 ---
 
-### Additional Resources
+#### Additional Resources
 
 - **India Village Boundaries** | [DataMeet](http://projects.datameet.org/indian_village_boundaries/)
 - **Village Dynamics in South Asia (VDSA)** | [ICRISAT](https://vdsa.icrisat.org/vdsa-microdoc.aspx)
@@ -62,9 +62,9 @@ Below is a collection of publicly available data used by economists and other pr
 
 ---
 
-### Lecture Notes / Learning Resources
+#### Lecture Notes / Learning Resources
 
-#### Advanced Econometrics (PhD Level)
+##### Advanced Econometrics (PhD Level)
 
 **Advanced Econometrics I & II — Revision Notes**  
 Personal notes covering core topics in modern econometrics, including asymptotic theory, M-estimation, GMM, panel data methods, and identification. Useful for applied research as a quick reference guide.

@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: ""
 pagetitle: CV - Kishan Narayan
 ---
 
@@ -7,7 +7,7 @@ pagetitle: CV - Kishan Narayan
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Education
+### Education
 
 - **2023-Present** — PhD in Public Policy, Northeastern University
 - **2019-2021** — Master of Arts in Applied Economics, Jawaharlal Nehru University
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-## Research Experience
+### Research Experience
 
 - **Feb 2023 - Aug 2023** — Research Analyst, [Development Data Lab](https://www.devdatalab.org/shrug_download/)
 - **Feb 2022 - Feb 2023** — Research Fellow, Ministry of Finance, National Institute of Public Finance and Policy with Prof. H.K. Amarnath
@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-## Other Professional Experience
+### Other Professional Experience
 
 - **2019** — Intern, NITI Aayog (Erstwhile Planning Commission of India)
 - **2018** — Intern, Ministry of Tourism, Govt of India

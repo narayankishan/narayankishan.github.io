@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 pagetitle: Research - Kishan Narayan
 ---
 
@@ -42,7 +42,7 @@ National Institute of Public Finance and Policy, New Delhi. NITI Aayog, Governme
 
 ---
 
-## Media Writings
+#### Media Writings
 
 - <a href="https://www.ideasforindia.in/topics/macroeconomics/information-is-power-ict-and-agricultural-productivity-hindi.html" target="_blank">राज्यों की सब्सिडी का बढ़ता बोझ</a> — *Ideas for India*, April 2025
 - <a href="https://www.ideasforindia.in/topics/macroeconomics/the-growing-burden-of-state-subsidies.html" target="_blank">Developmental spending is far better than developmental subsidy</a> — *Ideas for India*, March 2025
