@@ -7,7 +7,7 @@ pagetitle: Research - Kishan Narayan
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Work in Progress
+#### Work in Progress
 
 **The Causal Effect of Social Media Access on Electoral Outcomes: Evidence from Brazil's Twitter Ban** (with [Sebastián Ramirez](https://cssh.northeastern.edu/student/sebastian-ramirez/))
 
@@ -27,7 +27,7 @@ The paper exploits India's 2019 introduction of a 10% quota for Economically Wea
 
 ---
 
-## Reports
+#### Reports
 
 **Rationalisation of Explicit Subsidies at State Level** (2024)  
 National Institute of Public Finance and Policy, New Delhi. NITI Aayog, Government of India Study.  
