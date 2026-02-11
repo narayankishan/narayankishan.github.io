@@ -1,13 +1,11 @@
 ---
-title: "          "
+title: "Resources"
 pagetitle: Resources - Kishan Narayan
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-
 
 Below is a collection of publicly available data used by economists and other professionals. I have compiled these resources while reading academic papers, exploring various data sources, or browsing the internet.
 
