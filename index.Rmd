@@ -9,7 +9,8 @@ knitr::opts_chunk$set(echo = FALSE)
 <div class="col2"> <img src="images/1000191916.jpg" style="float:left;margin: 0px 25px 15px 0px;width:40%;">
 I am currently a PhD student in Public Policy at Northeastern University studying Development Economics and Public Policy. I am interested in topics related to Development, Behavioral Economy and Labor Economics.
 
-Previously, I worked as a Research Fellow at the National Institute of Public Finance and Policy, where I collaborated with NITI Aayog and the Ministry of Finance, Government of India, on projects related to subsidies and the digitization of archival budget documents. <br> I have also worked at Development Data Lab, where I contributed to an open-source database tracking Indian parliamentary representation. In addition, I taught Statistics and Microeconomics to high school students in Delhi Government Schools.
+Previously, I worked as a Research Fellow at the National Institute of Public Finance and Policy, where I collaborated with NITI Aayog and the Ministry of Finance, Government of India, on projects related to subsidies and the digitization of archival budget documents.<br>
+I have also worked at Development Data Lab, where I contributed to an open-source database tracking Indian parliamentary representation. In addition, I taught Statistics and Microeconomics to high school students in Delhi Government Schools.
 
 I have a Master’s in Applied Economics from Jawaharlal Nehru University and Bachelor’s in Economics from Banaras Hindu University.
 
