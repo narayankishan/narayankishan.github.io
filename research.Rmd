@@ -1,0 +1,51 @@
+---
+title: "Research"
+pagetitle: Research - Kishan Narayan
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Work in Progress
+
+**The Causal Effect of Social Media Access on Electoral Outcomes: Evidence from Brazil's Twitter Ban** (with [Sebastián Ramirez](https://cssh.northeastern.edu/student/sebastian-ramirez/))
+
+Exploiting Brazil's 2024 Twitter ban as a quasi-experimental shock to identify the causal impact of social media on voting behavior. Employing difference-in-differences methodology comparing border municipalities (with potential cross-border network access) to non-border municipalities. Currently constructing a municipality-level internet penetration index using PCA on data from IBGE's PNAD Contínua and Cetic.br surveys, addressing district-to-municipality harmonization challenges through population-weighted aggregation. Incorporating spatial RD and heterogeneity analysis by baseline internet penetration and bordering country. *[Draft available soon]*
+
+---
+
+**Where Do Opportunity Zone Jobs Go? A Social Network Analysis of Employment Flows in Place-Based Tax Policy** (with Hitanshu Pandit)
+
+This paper explains why the Opportunity Zone (OZ) program produced no measurable gains for residents despite large capital inflows. Using ACS and LODES data through 2022, we replicate and extend prior work and find precise null effects on resident employment, poverty, income, and—newly—on workplace employment in OZ tracts. We then show that these null effects arise from the labor-market network structure. Commuting-flow networks reveal that OZ tracts occupy peripheral, highly segregated positions with low in-degree centrality, high structural constraint, and limited connectivity to high-income labor markets. *[Draft available soon]*
+
+---
+
+**Displacement or Expansion? The General Equilibrium Effects of EWS Quotas in Indian Higher Education**
+
+The paper exploits India's 2019 introduction of a 10% quota for Economically Weaker Sections (EWS) as a natural experiment to study the impact of expanded affirmative action policies. The study examines how this policy change affects the composition of students in elite institutions and their subsequent labor market outcomes, particularly focusing on its impact on traditionally reserved categories (SC/ST/OBC).
+
+---
+
+## Reports
+
+**Rationalisation of Explicit Subsidies at State Level** (2024)  
+National Institute of Public Finance and Policy, New Delhi. NITI Aayog, Government of India Study.  
+*With Amar Nath, H. K., Nayudu, S. H., Gurdatta, M. & Raj, A.*
+
+<a href="https://www.nipfp.org.in/publication-index-page/report-index-page/rationalisation-of-explicit-subsidies-at-state-level/" target="_blank">Report Link</a> | 
+<a href="https://www.ideasforindia.in/topics/macroeconomics/the-growing-burden-of-state-subsidies.html" target="_blank">Ideas for India Summary</a>
+
+**Media Coverage:**  
+<a href="https://www.business-standard.com/opinion/editorial/containing-subsidies-why-states-must-reassess-and-rationalise-expenditure-124082201416_1.html" target="_blank">Business Standard</a> | 
+<a href="https://theprint.in/opinion/state-subsidy-burden-india-fiscal-health/2551909/" target="_blank">The Print</a>
+
+---
+
+## Media Writings
+
+- <a href="https://www.ideasforindia.in/topics/macroeconomics/information-is-power-ict-and-agricultural-productivity-hindi.html" target="_blank">राज्यों की सब्सिडी का बढ़ता बोझ</a> — *Ideas for India*, April 2025
+- <a href="https://www.ideasforindia.in/topics/macroeconomics/the-growing-burden-of-state-subsidies.html" target="_blank">Developmental spending is far better than developmental subsidy</a> — *Ideas for India*, March 2025
+- <a href="https://www.newsclick.in/bihars-bridge-woes-shatter-dreams-its-people" target="_blank">Bihar's Bridge Woes Shatter Dreams of its People</a> — *Newsclick*, June 2023
+- <a href="https://www.newsclick.in/survival-privileged-why-budget-24-matters-marginalised" target="_blank">India's Growing Social Base of Educational Inequality</a> — *Newsclick*, January 2023
+- <a href="https://www.newsclick.in/HEFA-NEP-Spell-Doom-Higher-Ed-Especially-Marginalised-Students" target="_blank">The Threat to Equity in Higher Education</a> — *Newsclick*, September 2022

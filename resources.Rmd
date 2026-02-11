@@ -1,0 +1,73 @@
+---
+title: "Resources"
+pagetitle: Resources - Kishan Narayan
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below is a collection of publicly available data used by economists and other professionals. I have compiled these resources while reading academic papers, exploring various data sources, or browsing the internet.
+
+**Please note:** All data is owned and managed by their respective individuals or organizations.
+
+---
+
+## India-Specific Data
+
+- **SHRUG** | [Development Data Lab](https://www.devdatalab.org/shrug_download/)
+- **India High Courts Data** | [Daksh](https://database.dakshindia.org/)
+- **Broadband Internet Data for Indian Villages (BharatNet)** | [Johannes Matzat](https://sites.google.com/view/johannes-matzat/data)
+- **National Family and Health Survey (NFHS)** | [NFHS](http://rchiips.org/NFHS/index.shtml)
+- **Annual Survey of Industries & NSS** | [MOSPI](https://mospi.gov.in/51-annual-survey-industries)
+- **Indian Judiciary Data** | [NJDG](https://njdg.ecourts.gov.in/) and [E-Courts](http://www.ecourts.gov.in/)
+- **Agriculture Marketing** | [AGMARKNET](http://agmarknet.gov.in/)
+- **India Microdata** | [Spreadsheet](https://docs.google.com/spreadsheets/d/1VWzPJAtMl1_hMHUER4QA6HcV4mJaFrcjOtvxeCNo0nE/edit#gid=0)
+- **India Water Data Source** | [India-WRIS](https://indiawris.gov.in/wris/#/home)
+- **India Administrative Atlas** | [Stanford](https://searchworks.stanford.edu/view/6331424)
+
+---
+
+## Judicial, Political, and Social Data
+
+- **Global Instances of Coups** | [Arrested Dictatorship](https://arresteddictatorship.com/coups/)
+- **Mutiny Data in Africa** | [Arrested Dictatorship](https://arresteddictatorship.com/mutiny/)
+- **REIGN Dataset** | [Arrested Dictatorship](https://arresteddictatorship.com/reign/)
+- **Varshney-Wilkinson Dataset** | [ICPSR](https://www.icpsr.umich.edu/web/ICPSR/studies/4342/versions/V1)
+- **Comparative Constitutions Project** | [CCP Data](https://comparativeconstitutionsproject.org/download-data/)
+- **INSCR Data** | [Systemic Peace](https://www.systemicpeace.org/inscrdata.html)
+- **Polity Project** | [Systemic Peace](https://www.systemicpeace.org/polityproject.html)
+
+---
+
+## Public Sector, Economic, and Environmental Data
+
+- **Worldwide Bureaucracy Indicators** | [World Bank](https://datacatalog.worldbank.org/search/dataset/0038132)
+- **GDELT Project** | [GDELT Data](https://www.gdeltproject.org/data.html#rawdatafiles)
+- **Digital South Asia Library** | [UChicago](https://dsal.uchicago.edu/reference/schwartzberg/)
+- **Mobile Network Coverage** | [Collins Bartholomew](https://www.collinsbartholomew.com/mobile-network-coverage-map-data/)
+- **Google Open Buildings** | [Open Buildings](https://sites.research.google/open-buildings/)
+- **Microsoft Building Footprints** | [Microsoft](https://www.microsoft.com/en-us/maps/building-footprints)
+- **Historical Rainfall Data** | [NOAA GHCN](http://www.ncdc.noaa.gov/oa/climate/research/ghcn/ghcn.html)
+
+---
+
+## Additional Resources
+
+- **India Village Boundaries** | [DataMeet](http://projects.datameet.org/indian_village_boundaries/)
+- **Village Dynamics in South Asia (VDSA)** | [ICRISAT](https://vdsa.icrisat.org/vdsa-microdoc.aspx)
+- **Aadhar Centers across India 2023** | [Bhuvan](https://bhuvan-app3.nrsc.gov.in/aadhaar/)
+- **NGOs in India** | [NGO Darpan](https://ngodarpan.gov.in/index.php/home/statewise)
+- **Air Quality Data of India (2010-2023)** | [Kaggle](https://www.kaggle.com/datasets/abhisheksjha/time-series-air-quality-data-of-india-2010-2023/data)
+
+---
+
+## Lecture Notes / Learning Resources
+
+### Advanced Econometrics (PhD Level)
+
+**Advanced Econometrics I & II — Revision Notes**  
+Personal notes covering core topics in modern econometrics, including asymptotic theory, M-estimation, GMM, panel data methods, and identification. Useful for applied research as a quick reference guide.
+
+<a href="https://raw.githubusercontent.com/narayankishan/PhD_econometrics_revision_notes/main/narayan_metrics_notes.pdf" target="_blank">Download PDF</a> | 
+<a href="https://github.com/narayankishan/PhD_econometrics_revision_notes" target="_blank">GitHub Repository</a>
