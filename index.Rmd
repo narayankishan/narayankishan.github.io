@@ -7,11 +7,15 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 <br>
 <div class="col2"> <img src="images/1000191916.jpg" style="float:left;margin: 0px 25px 15px 0px;width:40%;">
-I am currently a PhD student in Public Policy at Northeastern University studying Development Economics and Public Policy. I am interested in topics related to Development, Behavioral Economy and Labor Economics. 
+I am currently a PhD student in Public Policy at Northeastern University studying Development Economics and Public Policy. I am interested in topics related to Development, Behavioral Economy and Labor Economics.
+
 Previously, I worked as a Research Fellow at the National Institute of Public Finance and Policy, where I collaborated with NITI Aayog and the Ministry of Finance, Government of India, on projects related to subsidies and the digitization of archival budget documents. I have also worked at Development Data Lab, where I contributed to an open-source database tracking Indian parliamentary representation. In addition, I taught Statistics and Microeconomics to high school students in Delhi Government Schools.
+
 I have a Master’s in Applied Economics from Jawaharlal Nehru University and Bachelor’s in Economics from Banaras Hindu University.
-While marginalized communities have been widely studied, I seek to bring both analytical rigor and lived perspective to questions of inequality and development. I am committed to ensuring that the voices of underrepresented groups are meaningfully reflected in economic research and policy design.
+
+While marginalized communities have been widely studied, I seek to bring both analytical rigor and lived perspective to questions of inequality and development. I am committed to ensuring that the voices of underrepresented groups are meaningfully reflected in economic research and policy design. <br>
 I am part of <a href="https://bahujanecon.org/" target="_blank">Bahujan Economists</a>, a platform dedicated to supporting researchers, students, aspirants, and professors from historically marginalized caste, tribal, and religious communities in the field of Economics. You can follow our work at: <a href="https://x.com/BahujanEcon" target="_blank">@BahujanEcon</a>.
+
 I am proficient in use of Stata, R and Python (pandas, NumPy, statsmodels, scikit-learn, web scraping) empirical analysis and data management.
  </div>
 <div class="col2">
