@@ -1,0 +1,13 @@
+/* Reduce gap between navbar and title */
+body {
+  padding-top: 51px !important;
+}
+
+.title {
+  margin-top: 10px !important;
+}
+
+#header h1.title {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}

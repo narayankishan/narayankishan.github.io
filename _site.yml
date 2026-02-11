@@ -24,3 +24,4 @@ output:
   html_document:
     self_contained: no  
     theme: yeti
+    css: styles.css
