@@ -9,15 +9,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### Work in Progress
 
-**The Causal Effect of Social Media Access on Electoral Outcomes: Evidence from Brazil's Twitter Ban** (with [Sebastián Ramirez](https://cssh.northeastern.edu/student/sebastian-ramirez/))
+**Allocation Mechanisms, Information Frictions, and Welfare in Centralized College Admissions**
 
-Exploiting Brazil's 2024 Twitter ban as a quasi-experimental shock to identify the causal impact of social media on voting behavior. Employing difference-in-differences methodology comparing border municipalities (with potential cross-border network access) to non-border municipalities. Currently constructing a municipality-level internet penetration index using PCA on data from IBGE's PNAD Contínua and Cetic.br surveys, addressing district-to-municipality harmonization challenges through population-weighted aggregation. Incorporating spatial RD and heterogeneity analysis by baseline internet penetration and bordering country. *[Draft available soon]*
+Studies India’s centralized engineering admissions system as a rank-based allocation mechanism in a market without
+prices. Exploits institutional changes across allocation regimes (serial dictatorship and modified deferred acceptance)
+to examine how mechanism design and information constraints affect sorting, strategic behavior, and welfare.
+Constructs candidate-level feasible choice sets to derive revealed-preference implications and quantify distortions from constrained information.
 
 ---
 
-**Where Do Opportunity Zone Jobs Go? A Social Network Analysis of Employment Flows in Place-Based Tax Policy** (with Hitanshu Pandit)
+**The Causal Effect of Social Media Access on Electoral Outcomes: Evidence from Brazil's Twitter Ban** (with [Sebastián Ramirez](https://cssh.northeastern.edu/student/sebastian-ramirez/))
 
-This paper explains why the Opportunity Zone (OZ) program produced no measurable gains for residents despite large capital inflows. Using ACS and LODES data through 2022, we replicate and extend prior work and find precise null effects on resident employment, poverty, income, and—newly—on workplace employment in OZ tracts. We then show that these null effects arise from the labor-market network structure. Commuting-flow networks reveal that OZ tracts occupy peripheral, highly segregated positions with low in-degree centrality, high structural constraint, and limited connectivity to high-income labor markets. *[Draft available soon]*
+Exploiting Brazil's 2024 Twitter ban as a quasi-experimental shock to identify the causal impact of social media on voting behavior. Employing difference-in-differences methodology comparing border municipalities (with potential cross-border network access) to non-border municipalities. Currently constructing a municipality-level internet penetration index using PCA on data from IBGE's PNAD Contínua and Cetic.br surveys, addressing district-to-municipality harmonization challenges through population-weighted aggregation. Incorporating spatial RD and heterogeneity analysis by baseline internet penetration and bordering country. *[Draft available soon]*
 
 ---
 
