@@ -24,17 +24,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### Research Experience
 
-- **2023** — Research Analyst, [Development Data Lab](https://www.devdatalab.org/shrug_download/)
-- **2022** — Research Fellow, Ministry of Finance, National Institute of Public Finance and Policy
-- **2021** — Research Assistant, Banaras Hindu University
-- **2018** — Research Assistant, Campaign for Anti-Corruption & Human Rights, Government of Nepal
+<div class="cv-entry"><div class="cv-year">2023</div><div class="cv-desc">Research Analyst, <a href="https://www.devdatalab.org/shrug_download/">Development Data Lab</a></div></div>
+<div class="cv-entry"><div class="cv-year">2022</div><div class="cv-desc">Research Fellow, Ministry of Finance, National Institute of Public Finance and Policy</div></div>
+<div class="cv-entry"><div class="cv-year">2021</div><div class="cv-desc">Research Assistant, Banaras Hindu University</div></div>
+<div class="cv-entry"><div class="cv-year">2018</div><div class="cv-desc">Research Assistant, Campaign for Anti-Corruption & Human Rights, Government of Nepal</div></div>
 
 ---
 
 #### Other Professional Experience
 
-- **2019** — Intern, NITI Aayog (Erstwhile Planning Commission of India)
-- **2018** — Intern, Ministry of Tourism, Govt of India
+<div class="cv-entry"><div class="cv-year">2019</div><div class="cv-desc">Intern, NITI Aayog (Erstwhile Planning Commission of India)</div></div>
+<div class="cv-entry"><div class="cv-year">2018</div><div class="cv-desc">Intern, Ministry of Tourism, Govt of India</div></div>
 
 ---
 
