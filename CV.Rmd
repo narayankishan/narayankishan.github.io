@@ -19,9 +19,9 @@ knitr::opts_chunk$set(echo = FALSE)
 #### Research Experience
 
 - **Feb 2023 - Aug 2023** — Research Analyst, [Development Data Lab](https://www.devdatalab.org/shrug_download/)
-- **Feb 2022 - Feb 2023** — Research Fellow, Ministry of Finance, National Institute of Public Finance and Policy with Prof. H.K. Amarnath
+- **Feb 2022 - Feb 2023** — Research Fellow, Ministry of Finance, National Institute of Public Finance and Policy
 - **Sep 2021 - Jan 2022** — Research Assistant, Banaras Hindu University
-- **Feb 2018 - Nov 2018** — Research Assistant, Campaign for Anti-Corruption and Human Rights, Govt of Federal Democratic Republic of Nepal
+- **Feb 2018 - Nov 2018** — Research Assistant, Campaign for Anti-Corruption & Human Rights, Government of Nepal
 
 ---
 
