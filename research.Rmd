@@ -25,11 +25,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Rationalisation of Explicit Subsidies at State Level** (2024)  
 National Institute of Public Finance and Policy, New Delhi. NITI Aayog, Government of India Study.  
-*With Amar Nath, H. K., Nayudu, S. H., Gurdatta, M. & Raj, A.*
+*With Amar Nath, H. K., Nayudu, S. H., Gurdatta, M. & Raj, A.* <br>
 <a href="https://www.nipfp.org.in/publication-index-page/report-index-page/rationalisation-of-explicit-subsidies-at-state-level/" target="_blank">Report Link</a> | 
 <a href="https://www.ideasforindia.in/topics/macroeconomics/the-growing-burden-of-state-subsidies.html" target="_blank">Ideas for India Summary</a>  | **Media Coverage:** <a href="https://www.business-standard.com/opinion/editorial/containing-subsidies-why-states-must-reassess-and-rationalise-expenditure-124082201416_1.html" target="_blank">Business Standard</a> | <a href="https://theprint.in/opinion/state-subsidy-burden-india-fiscal-health/2551909/" target="_blank">The Print</a>
 
-**The Frozen Constituency Delayed Delimitation and Denied Representation of SCs and STs** with Anagha Pradeep
+**The Frozen Constituency Delayed Delimitation and Denied Representation of SCs and STs** with Anagha Pradeep<br>
 *Economic and Political Weekly,* 2026 <a href="https://www.epw.in/journal/2026/23/perspectives/frozen-constituency.html">Paper</a> | 
 <a href="https://narayankishan.github.io/pdfs/perlxi23kishan-narayan06062026.pdf">Ungated</a>  
 
