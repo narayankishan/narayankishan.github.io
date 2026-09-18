@@ -9,15 +9,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### Work in Progress
 
-**Allocation Mechanisms, Information Frictions, and Welfare in Centralized College Admissions**
+**Priority, Opportunity, and Allocation in Centralized Admissions**
+
+---
+
+**Second Chances, Progression, and Streams Sorting: Evidence from High-Stakes Exam** (with [Subarna Banarjee](https://subarna-banerjee.github.io/))
+
+---
+
+**Where Do Opportunity Zone Jobs Go? A Social Network Analysis of Employment Flows in Place-Based Tax Policy** (with [Hitanshu Pandit](https://www.hitanshupandit.com/))
 
 ---
 
 **The Causal Effect of Social Media Access on Electoral Outcomes: Evidence from Brazil's Twitter Ban** (with [Sebastián Ramirez](https://cssh.northeastern.edu/student/sebastian-ramirez/))
-
----
-
-**Displacement or Expansion? The General Equilibrium Effects of EWS Quotas in Indian Higher Education**
 
 ---
 
