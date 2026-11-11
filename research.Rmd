@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### Work in Progress
 
-**Priority, Opportunity, and Allocation in Centralized Admissions**
+**Choice under Centralized Admissions: Evidence from Elite Engineering Colleges in India**
 
 ---
 
@@ -17,11 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-**Where Do Opportunity Zone Jobs Go? A Social Network Analysis of Employment Flows in Place-Based Tax Policy** (with [Hitanshu Pandit](https://www.hitanshupandit.com/))
-
----
-
-**The Causal Effect of Social Media Access on Electoral Outcomes: Evidence from Brazil's Twitter Ban** (with [Sebastián Ramirez](https://cssh.northeastern.edu/student/sebastian-ramirez/))
+**Where Do Opportunity Zone Jobs Go? A Network Analysis of Employment Flows in Place-Based Tax Policy** (with [Hitanshu Pandit](https://www.hitanshupandit.com/))
 
 ---
 
